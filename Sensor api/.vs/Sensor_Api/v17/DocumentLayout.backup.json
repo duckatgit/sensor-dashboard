@@ -1,0 +1,289 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Sensor_Dashboard\\Sensor_Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B4A04F7-09B3-4146-BC05-4055652C3670}|Sensor_Api\\Sensor_Api.csproj|d:\\sensor_dashboard\\sensor_api\\sensor_api\\hostedservices\\batchprocessorhostedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B4A04F7-09B3-4146-BC05-4055652C3670}|Sensor_Api\\Sensor_Api.csproj|solutionrelative:sensor_api\\hostedservices\\batchprocessorhostedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B4A04F7-09B3-4146-BC05-4055652C3670}|Sensor_Api\\Sensor_Api.csproj|d:\\sensor_dashboard\\sensor_api\\sensor_api\\utils\\welford.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B4A04F7-09B3-4146-BC05-4055652C3670}|Sensor_Api\\Sensor_Api.csproj|solutionrelative:sensor_api\\utils\\welford.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B4A04F7-09B3-4146-BC05-4055652C3670}|Sensor_Api\\Sensor_Api.csproj|d:\\sensor_dashboard\\sensor_api\\sensor_api\\utils\\circularbuffer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B4A04F7-09B3-4146-BC05-4055652C3670}|Sensor_Api\\Sensor_Api.csproj|solutionrelative:sensor_api\\utils\\circularbuffer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B4A04F7-09B3-4146-BC05-4055652C3670}|Sensor_Api\\Sensor_Api.csproj|d:\\sensor_dashboard\\sensor_api\\sensor_api\\hostedservices\\datacleanuphostedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B4A04F7-09B3-4146-BC05-4055652C3670}|Sensor_Api\\Sensor_Api.csproj|solutionrelative:sensor_api\\hostedservices\\datacleanuphostedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B4A04F7-09B3-4146-BC05-4055652C3670}|Sensor_Api\\Sensor_Api.csproj|d:\\sensor_dashboard\\sensor_api\\sensor_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B4A04F7-09B3-4146-BC05-4055652C3670}|Sensor_Api\\Sensor_Api.csproj|solutionrelative:sensor_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B4A04F7-09B3-4146-BC05-4055652C3670}|Sensor_Api\\Sensor_Api.csproj|d:\\sensor_dashboard\\sensor_api\\sensor_api\\repositories\\isensorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B4A04F7-09B3-4146-BC05-4055652C3670}|Sensor_Api\\Sensor_Api.csproj|solutionrelative:sensor_api\\repositories\\isensorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B4A04F7-09B3-4146-BC05-4055652C3670}|Sensor_Api\\Sensor_Api.csproj|d:\\sensor_dashboard\\sensor_api\\sensor_api\\services\\isensorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B4A04F7-09B3-4146-BC05-4055652C3670}|Sensor_Api\\Sensor_Api.csproj|solutionrelative:sensor_api\\services\\isensorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B4A04F7-09B3-4146-BC05-4055652C3670}|Sensor_Api\\Sensor_Api.csproj|d:\\sensor_dashboard\\sensor_api\\sensor_api\\repositories\\sensorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B4A04F7-09B3-4146-BC05-4055652C3670}|Sensor_Api\\Sensor_Api.csproj|solutionrelative:sensor_api\\repositories\\sensorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B4A04F7-09B3-4146-BC05-4055652C3670}|Sensor_Api\\Sensor_Api.csproj|d:\\sensor_dashboard\\sensor_api\\sensor_api\\services\\sensorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B4A04F7-09B3-4146-BC05-4055652C3670}|Sensor_Api\\Sensor_Api.csproj|solutionrelative:sensor_api\\services\\sensorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B4A04F7-09B3-4146-BC05-4055652C3670}|Sensor_Api\\Sensor_Api.csproj|d:\\sensor_dashboard\\sensor_api\\sensor_api\\controllers\\sensorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B4A04F7-09B3-4146-BC05-4055652C3670}|Sensor_Api\\Sensor_Api.csproj|solutionrelative:sensor_api\\controllers\\sensorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B4A04F7-09B3-4146-BC05-4055652C3670}|Sensor_Api\\Sensor_Api.csproj|d:\\sensor_dashboard\\sensor_api\\sensor_api\\hubs\\sensorhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B4A04F7-09B3-4146-BC05-4055652C3670}|Sensor_Api\\Sensor_Api.csproj|solutionrelative:sensor_api\\hubs\\sensorhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B4A04F7-09B3-4146-BC05-4055652C3670}|Sensor_Api\\Sensor_Api.csproj|d:\\sensor_dashboard\\sensor_api\\sensor_api\\hostedservices\\simulatorhostedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B4A04F7-09B3-4146-BC05-4055652C3670}|Sensor_Api\\Sensor_Api.csproj|solutionrelative:sensor_api\\hostedservices\\simulatorhostedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B4A04F7-09B3-4146-BC05-4055652C3670}|Sensor_Api\\Sensor_Api.csproj|d:\\sensor_dashboard\\sensor_api\\sensor_api\\hostedservices\\purgehostedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B4A04F7-09B3-4146-BC05-4055652C3670}|Sensor_Api\\Sensor_Api.csproj|solutionrelative:sensor_api\\hostedservices\\purgehostedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B4A04F7-09B3-4146-BC05-4055652C3670}|Sensor_Api\\Sensor_Api.csproj|d:\\sensor_dashboard\\sensor_api\\sensor_api\\data\\sensordbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B4A04F7-09B3-4146-BC05-4055652C3670}|Sensor_Api\\Sensor_Api.csproj|solutionrelative:sensor_api\\data\\sensordbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B4A04F7-09B3-4146-BC05-4055652C3670}|Sensor_Api\\Sensor_Api.csproj|d:\\sensor_dashboard\\sensor_api\\sensor_api\\entities\\sensorreading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B4A04F7-09B3-4146-BC05-4055652C3670}|Sensor_Api\\Sensor_Api.csproj|solutionrelative:sensor_api\\entities\\sensorreading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B4A04F7-09B3-4146-BC05-4055652C3670}|Sensor_Api\\Sensor_Api.csproj|d:\\sensor_dashboard\\sensor_api\\sensor_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4B4A04F7-09B3-4146-BC05-4055652C3670}|Sensor_Api\\Sensor_Api.csproj|solutionrelative:sensor_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataCleanupHostedService.cs",
+              "DocumentMoniker": "D:\\Sensor_Dashboard\\Sensor_Api\\Sensor_Api\\HostedServices\\DataCleanupHostedService.cs",
+              "RelativeDocumentMoniker": "Sensor_Api\\HostedServices\\DataCleanupHostedService.cs",
+              "ToolTip": "D:\\Sensor_Dashboard\\Sensor_Api\\Sensor_Api\\HostedServices\\DataCleanupHostedService.cs",
+              "RelativeToolTip": "Sensor_Api\\HostedServices\\DataCleanupHostedService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T04:59:15.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ISensorService.cs",
+              "DocumentMoniker": "D:\\Sensor_Dashboard\\Sensor_Api\\Sensor_Api\\Services\\ISensorService.cs",
+              "RelativeDocumentMoniker": "Sensor_Api\\Services\\ISensorService.cs",
+              "ToolTip": "D:\\Sensor_Dashboard\\Sensor_Api\\Sensor_Api\\Services\\ISensorService.cs",
+              "RelativeToolTip": "Sensor_Api\\Services\\ISensorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T04:55:15.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Welford.cs",
+              "DocumentMoniker": "D:\\Sensor_Dashboard\\Sensor_Api\\Sensor_Api\\Utils\\Welford.cs",
+              "RelativeDocumentMoniker": "Sensor_Api\\Utils\\Welford.cs",
+              "ToolTip": "D:\\Sensor_Dashboard\\Sensor_Api\\Sensor_Api\\Utils\\Welford.cs",
+              "RelativeToolTip": "Sensor_Api\\Utils\\Welford.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T06:03:30.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BatchProcessorHostedService.cs",
+              "DocumentMoniker": "D:\\Sensor_Dashboard\\Sensor_Api\\Sensor_Api\\HostedServices\\BatchProcessorHostedService.cs",
+              "RelativeDocumentMoniker": "Sensor_Api\\HostedServices\\BatchProcessorHostedService.cs",
+              "ToolTip": "D:\\Sensor_Dashboard\\Sensor_Api\\Sensor_Api\\HostedServices\\BatchProcessorHostedService.cs",
+              "RelativeToolTip": "Sensor_Api\\HostedServices\\BatchProcessorHostedService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAgwCoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T06:03:49.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PurgeHostedService.cs",
+              "DocumentMoniker": "D:\\Sensor_Dashboard\\Sensor_Api\\Sensor_Api\\HostedServices\\PurgeHostedService.cs",
+              "RelativeDocumentMoniker": "Sensor_Api\\HostedServices\\PurgeHostedService.cs",
+              "ToolTip": "D:\\Sensor_Dashboard\\Sensor_Api\\Sensor_Api\\HostedServices\\PurgeHostedService.cs",
+              "RelativeToolTip": "Sensor_Api\\HostedServices\\PurgeHostedService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBkAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T06:04:18.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SimulatorHostedService.cs",
+              "DocumentMoniker": "D:\\Sensor_Dashboard\\Sensor_Api\\Sensor_Api\\HostedServices\\SimulatorHostedService.cs",
+              "RelativeDocumentMoniker": "Sensor_Api\\HostedServices\\SimulatorHostedService.cs",
+              "ToolTip": "D:\\Sensor_Dashboard\\Sensor_Api\\Sensor_Api\\HostedServices\\SimulatorHostedService.cs",
+              "RelativeToolTip": "Sensor_Api\\HostedServices\\SimulatorHostedService.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T14:14:12.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CircularBuffer.cs",
+              "DocumentMoniker": "D:\\Sensor_Dashboard\\Sensor_Api\\Sensor_Api\\Utils\\CircularBuffer.cs",
+              "RelativeDocumentMoniker": "Sensor_Api\\Utils\\CircularBuffer.cs",
+              "ToolTip": "D:\\Sensor_Dashboard\\Sensor_Api\\Sensor_Api\\Utils\\CircularBuffer.cs",
+              "RelativeToolTip": "Sensor_Api\\Utils\\CircularBuffer.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T06:02:58.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SensorRepository.cs",
+              "DocumentMoniker": "D:\\Sensor_Dashboard\\Sensor_Api\\Sensor_Api\\Repositories\\SensorRepository.cs",
+              "RelativeDocumentMoniker": "Sensor_Api\\Repositories\\SensorRepository.cs",
+              "ToolTip": "D:\\Sensor_Dashboard\\Sensor_Api\\Sensor_Api\\Repositories\\SensorRepository.cs",
+              "RelativeToolTip": "Sensor_Api\\Repositories\\SensorRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAqwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T05:54:08.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ISensorRepository.cs",
+              "DocumentMoniker": "D:\\Sensor_Dashboard\\Sensor_Api\\Sensor_Api\\Repositories\\ISensorRepository.cs",
+              "RelativeDocumentMoniker": "Sensor_Api\\Repositories\\ISensorRepository.cs",
+              "ToolTip": "D:\\Sensor_Dashboard\\Sensor_Api\\Sensor_Api\\Repositories\\ISensorRepository.cs",
+              "RelativeToolTip": "Sensor_Api\\Repositories\\ISensorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T05:53:30.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SensorDbContext.cs",
+              "DocumentMoniker": "D:\\Sensor_Dashboard\\Sensor_Api\\Sensor_Api\\Data\\SensorDbContext.cs",
+              "RelativeDocumentMoniker": "Sensor_Api\\Data\\SensorDbContext.cs",
+              "ToolTip": "D:\\Sensor_Dashboard\\Sensor_Api\\Sensor_Api\\Data\\SensorDbContext.cs",
+              "RelativeToolTip": "Sensor_Api\\Data\\SensorDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T05:51:26.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SensorService.cs",
+              "DocumentMoniker": "D:\\Sensor_Dashboard\\Sensor_Api\\Sensor_Api\\Services\\SensorService.cs",
+              "RelativeDocumentMoniker": "Sensor_Api\\Services\\SensorService.cs",
+              "ToolTip": "D:\\Sensor_Dashboard\\Sensor_Api\\Sensor_Api\\Services\\SensorService.cs",
+              "RelativeToolTip": "Sensor_Api\\Services\\SensorService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T05:55:33.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SensorController.cs",
+              "DocumentMoniker": "D:\\Sensor_Dashboard\\Sensor_Api\\Sensor_Api\\Controllers\\SensorController.cs",
+              "RelativeDocumentMoniker": "Sensor_Api\\Controllers\\SensorController.cs",
+              "ToolTip": "D:\\Sensor_Dashboard\\Sensor_Api\\Sensor_Api\\Controllers\\SensorController.cs",
+              "RelativeToolTip": "Sensor_Api\\Controllers\\SensorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T05:59:09.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Sensor_Dashboard\\Sensor_Api\\Sensor_Api\\Program.cs",
+              "RelativeDocumentMoniker": "Sensor_Api\\Program.cs",
+              "ToolTip": "D:\\Sensor_Dashboard\\Sensor_Api\\Sensor_Api\\Program.cs",
+              "RelativeToolTip": "Sensor_Api\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwBYAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T06:12:14.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SensorHub.cs",
+              "DocumentMoniker": "D:\\Sensor_Dashboard\\Sensor_Api\\Sensor_Api\\Hubs\\SensorHub.cs",
+              "RelativeDocumentMoniker": "Sensor_Api\\Hubs\\SensorHub.cs",
+              "ToolTip": "D:\\Sensor_Dashboard\\Sensor_Api\\Sensor_Api\\Hubs\\SensorHub.cs",
+              "RelativeToolTip": "Sensor_Api\\Hubs\\SensorHub.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T05:58:22.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SensorReading.cs",
+              "DocumentMoniker": "D:\\Sensor_Dashboard\\Sensor_Api\\Sensor_Api\\Entities\\SensorReading.cs",
+              "RelativeDocumentMoniker": "Sensor_Api\\Entities\\SensorReading.cs",
+              "ToolTip": "D:\\Sensor_Dashboard\\Sensor_Api\\Sensor_Api\\Entities\\SensorReading.cs",
+              "RelativeToolTip": "Sensor_Api\\Entities\\SensorReading.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T05:50:48.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Sensor_Dashboard\\Sensor_Api\\Sensor_Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Sensor_Api\\appsettings.json",
+              "ToolTip": "D:\\Sensor_Dashboard\\Sensor_Api\\Sensor_Api\\appsettings.json",
+              "RelativeToolTip": "Sensor_Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-07T05:49:56.059Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
